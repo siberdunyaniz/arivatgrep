@@ -1,6 +1,6 @@
 # 🌌 ARİVA Şikayet Aracı (arivatgrep.py) 🚀  
 
-![ARİVA Banner](https://via.placeholder.com/1200x300/0d1117/ffffff?text=AR%C4%B0VA+%C5%9Eikayet+Arac%C4%B1+-+SiberD%C3%BCnyan%C4%B1z+&+ArivaTools)  
+![ARİVA Banner](https://t.me/arivatools/1652)  
 *💻 Powered by [SiberDünyanız](https://t.me/SiberDunyaniz) | Crafted by [@AtahanArslan](https://t.me/AtahanArslan)*  
 
 **ARİVA Şikayet Aracı** is a state-of-the-art Python tool designed to automate complaint submissions to Telegram’s support system with unmatched precision and style. Built for efficiency, it generates dynamic contact details, leverages proxy-based anonymity, and boasts a visually stunning console interface. Whether you're exploring cybersecurity or conducting research, this tool delivers a seamless, high-tech experience.  
